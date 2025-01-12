@@ -13,5 +13,4 @@ public class LoopStatementPractice2 {
         }
         System.out.println(sum);
     }
-
 }
