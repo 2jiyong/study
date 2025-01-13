@@ -1,4 +1,4 @@
-package Week1;
+package Week1.mission1;
 
 public class TimesTable {
     public static void main(String[] args) {
