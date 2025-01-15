@@ -1,4 +1,4 @@
-package Week1.mission2.p2;
+package week1.mission2.p2;
 
 public class Person {
     private String name;

@@ -1,4 +1,4 @@
-package Week1.mission2.p3;
+package week1.mission2.p3;
 
 public class CafeTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Week1.mission2.p1;
+package week1.mission2.p1;
 
 public class Numbers {
     int number1, number2;

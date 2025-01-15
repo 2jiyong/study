@@ -1,4 +1,4 @@
-package Week1.mission2.p4;
+package week1.mission2.p4;
 
 public class MyDate {
     private int day;
